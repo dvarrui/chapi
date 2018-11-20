@@ -3,6 +3,8 @@
 
 `Charlas para Profesores de Informática`
 
+<chapi.canarias@gmail.com>
+
 ---
 
 # El origen
