@@ -2,6 +2,8 @@
 
 `Charlas para Profesores de Informática`
 
+![logo](./logo.png)
+
 # Historia
 
 Todos los años surge la necesidad de formarse. De aprender cosas nuevas
@@ -36,33 +38,16 @@ Entonces surgen... las charlas CHAPI.
 
 # Ediciones
 
-* 2016: La primera charlas CHAPI en IES Puerto de la Cruz.
-* 2017: Se celebra en el IES el Rincón en Las PAlmas de Gran Canaria.
-* 2018: Año de oposiciones... mala idea.
-* 2019: ...
+| Año  | Lugar de celebración |
+| ---- | -------------------- |
+| 2016 | La primera charlas CHAPI en IES Puerto de la Cruz |
+| 2017 | Se celebra en el IES el Rincón en Las Palmas de Gran Canaria |
+| 2018 | Año de oposiciones... mala idea |
+| 2019 | Tenerife... |
 
----
+**¿Cuando se celebrará la siguiente?** La fecha está casi decidida... será una vez terminemos el 2º trimestre.
 
-# ¿Quién puede asistir?
-
-Cualquier profesor de FP Informática que quiera.
-
-Los compañeros que se desplacen de otras islas podrán consultar con la
-coordinación de la familia profesional si existe alguna ayuda económica
-al transporte.
-
-Además se entregará un certificado de asistencia para poder justificar
-la salida del centro.
-
----
-
-# ¿Cuando se celebrará la siguiente?
-
-La fecha está casi decidida... será una vez terminemos el 2º trimestre.
-
----
-
-# Horario
+## Horario
 
 Dependerá de la cantidad de ponentes que tengamos. Pero lo más probable
 será:
@@ -70,13 +55,25 @@ será:
 | Hora          | Agenda   |
 | ------------- | -------- |
 | 10:00 - 13:00 | Charlas  |
-| 13:00 - 14:00 | Almuerzo |
-| 14:00 - 17:00 | Charlas  |
-| 17:00 - 17:30 | Debate y clausura |
+| 13:20 - 14:40 | Almuerzo |
+| 14:40 - 18:00 | Charlas  |
+| 18:00 - 18:15 | Clausura |
 
 ---
 
-# Charlas/ponentes
+# ¿Quién puede asistir?
+
+Cualquier profesor de FP Informática que quiera. En Enero 2019 se abrirá el proceso de inscripción para los que estén interesados en asistir.
+
+> Es importante controlar el número de personas que van a venir para encontrar la sala/aula adecuada.
+
+Los compañeros que se desplacen de otras islas podrán consultar con la
+coordinación de la familia profesional si existe alguna ayuda económica al transporte.
+
+Además se entregará un certificado de asistencia para poder justificar
+la salida del centro.
+
+## Charlas/ponentes
 
 En enero 2019 se publicarán los títulos de las charlas y los ponentes.
 Cualquier interesado en ser ponente puede ponerse en contacto con nosotros.
