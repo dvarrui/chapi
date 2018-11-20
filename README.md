@@ -1,8 +1,9 @@
-# CHAPI
+
+![logo](./logo.png)
 
 `Charlas para Profesores de Informática`
 
-![logo](./logo.png)
+---
 
 # Historia
 
