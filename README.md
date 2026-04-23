@@ -29,14 +29,20 @@ Está bien que un experto nos explique HTML5 o JAVA pero...
 Lo que falta es la visión de la práctica docente. Los expertos en eso...
 somos nosotros mismos.
 
-Entonces surge un pensamiento... ¿y si hacemos unas charlas formativas con
-bajo presupuesto donde seamos los profesores los que explicamos a nuestros
-compañeros algo nuevo o no tan nuevo que estemos haciendo actualmente y que hayamos aprendido recientemente y nos parezca interesante?...
-Seguro que es muy útil conocer lo que están haciendo otros compañeros por
-muchas razones:
-* (A) _Orgulloso_: Me refuerza la idea de que lo que hago yo es mejor y lo sigo haciendo.
-* (B) _Descubridor_: Oigo una forma nueva de hacer las cosas y eso me ayuda a trabajar de otra manera.
-* (C) _Empático_: Expongo lo que hago para recibir un feedback o comentarios que puedan ayudarme a ver qué tal lo llevo.
+Entonces surge una idea...
+
+```
+¿y si hacemos unas charlas formativas con bajo presupuesto
+donde seamos los profesores los que explicamos a nuestros compañeros
+algo nuevo o no tan nuevo que estemos haciendo actualmente 
+o que hayamos aprendido recientemente y nos parezca interesante?
+```
+
+Seguro que es muy útil conocer lo que están haciendo otros compañeros por muchas razones:
+
+* (A) _Orgulloso_: Me refuerza la idea de que es voy por buen camino.
+* (B) _Descubridor_: Conozco nuevas formas de hacer las cosas.
+* (C) _Empático_: Expongo lo que hago para recibir un feedback o comentarios que puedan ayudarme a mejorar.
 
 ---
 
