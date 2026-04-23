@@ -61,10 +61,12 @@ Entonces surgió la idea de hacer unas *charlas de cafetería* llamadas...
 | 2016 | La primera charlas CHAPI en IES Puerto de la Cruz |
 | 2017 | Se celebra en el IES el Rincón en Las Palmas de Gran Canaria |
 | 2018 | Año de oposiciones... ¡no se organizó nada! |
-| 2019 | Tenerife...en construcción |
+| 2019 | Se celebra en el CIFP César Manrique |
+| 2020 | Parón por la pandemia |
+| 2027 | Preparando CHAPI27... |
 
 **¿Cuando se celebrará la siguiente?** La fecha está casi decidida...
-* La fecha definitiva se publicará en enero de 2019.
+* La fecha definitiva se publicará en enero de 2027.
 * Será al acabar el 2º trimestre.
 * Un viernes, para que sea más cómodo a los compañeros que vienen de otras islas.
 
@@ -73,28 +75,31 @@ Entonces surgió la idea de hacer unas *charlas de cafetería* llamadas...
 Dependerá de la cantidad de ponentes que tengamos. Pero lo más probable
 será:
 
-| Hora          | Agenda   |
-| ------------- | -------- |
-| 10:00 - 13:00 | Charlas  |
-| 13:20 - 14:40 | Almuerzo |
-| 14:40 - 18:00 | Charlas  |
-| 18:00 - 18:15 | Clausura |
+| Hora          | Agenda       |
+| ------------- | ------------ |
+| 09:30 - 10:00 | Presentación |
+| 10:00 - 13:00 | Charlas      |
+| 13:00 - 14:30 | Almuerzo     |
+| 14:30 - 19:00 | Charlas      |
+| 19:00 - 19:30 | Clausura     |
 
 ---
 
 # ¿Quién puede asistir?
 
-Cualquier profesor de FP Informática que quiera. En Enero 2019 se abrirá el proceso de inscripción para los que estén interesados en asistir.
+* Cualquier profesor de FP Informática/Sistemas que quiera. 
+* Cualquier profesor de FP.
 
-> Es importante controlar el número de personas que van a venir para encontrar la sala/aula adecuada.
+En Enero 2027 se abrirá el proceso de inscripción para los que estén interesados en asistir.
+
+> Es importante controlar el número de personas que van a venir para reservar la sala/aula adecuada.
 
 Los compañeros que se desplacen de otras islas podrán consultar con la
 coordinación de la familia profesional si existe alguna ayuda económica al transporte.
 
-Además se entregará un certificado de asistencia para poder justificar
-la salida del centro.
+Al finalizar el evento, se entregará un certificado de asistencia para justificar la salida del centro.
 
 ## Charlas/ponentes
 
-En enero 2019 se publicarán los títulos de las charlas y los ponentes.
+En marzo 2027 se publicarán los títulos de las charlas y los ponentes.
 Cualquier interesado en ser ponente puede ponerse en contacto con nosotros.
