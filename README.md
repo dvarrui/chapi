@@ -1,5 +1,5 @@
 
-![logo](./logo.png)
+![logo](./images/logo.png)
 
 `Charlas para Profesores de Informática`
 
