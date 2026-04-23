@@ -1,5 +1,5 @@
 
-![logo](./images/logo.png)
+![logo](./images/chapi-canarias-27.png)
 
 `CHArlas para Profesores de Informática`
 
