@@ -3,7 +3,7 @@
 
 `Charlas para Profesores de Informática`
 
-<dvarrui@proton.me>
+<dvarrui@gobiernodecanarias.org>
 
 ---
 
