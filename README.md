@@ -1,7 +1,7 @@
 
 ![logo](./images/logo.png)
 
-`Charlas para Profesores de Informática`
+`CHArlas para Profesores de Informática`
 
 <dvarrui@gobiernodecanarias.org>
 
